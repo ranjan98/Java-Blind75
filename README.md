@@ -7,7 +7,7 @@ Coding Question Prep
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
@@ -68,12 +68,12 @@ Coding Question Prep
 
 ## Linked List
 
-- [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
-- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [x] [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+- [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [ ] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ---
 
